@@ -1,5 +1,4 @@
 
-```
 # Web Image Scraper
 
 A Python application and a Flask API to scrape images from a given URL and download them to a specified directory.
