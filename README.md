@@ -13,8 +13,6 @@ A Python application and a Flask API to scrape images from a given URL and downl
   - Scrape Images Route
 - Standalone Script
 - Example Usage
-- Contributing
-- License
 
 ## Features
 
